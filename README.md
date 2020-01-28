@@ -19,5 +19,5 @@ We demonstrate:
 ## Requirements
 
 1) [MIMIC data access](https://mimic.physionet.org/gettingstarted/access/)
-2) Download [Mallet](http://mallet.cs.umass.edu/download.php)
+2) [Mallet](http://mallet.cs.umass.edu/download.php) for topic modeling
 3) Python packages listed in `requirements.txt`
