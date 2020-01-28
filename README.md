@@ -20,4 +20,4 @@ We demonstrate:
 
 1) [MIMIC data access](https://mimic.physionet.org/gettingstarted/access/)
 2) Download [Mallet](http://mallet.cs.umass.edu/download.php)
-3) Python packages listed in requirements.txt
+3) Python and associated Python packages
